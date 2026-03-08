@@ -1,0 +1,14 @@
+Exceptions list
+	1. Plugins that serve to 'lock' the device into a 'testing mode' may be proprietary, if and only if people are able to freely (at no cost: aka free as in beer)
+	   unlock their devices using software and a inter-device connection that follows free, standard protocols on non-proprietary devices (ex. no proprietary device that
+	   comes with 'free unlock software' is allowed, nor is any proprietary cable required).
+	   1a. Exception 1. is only permissable if the party filing for it can prove that by implementing a lock they are gaining access to new markets (ex. students who need a
+	       lock to take exams with their calculator).
+	   1b. When an old version of the software is completely phased out, source code for the locks are required to be released unless parts of the code are reused in the new version.
+	       In the case of code reuse, the reused code can be redacted. If the code is ever improperly redacted by those allowed access for the purposes of redaction,
+		   the improperly redacted sections are no longer subject to this exception.
+	   1c. If a plugin is no longer being developed, all non-reused components are to be fully released under the GLPv3 LICENSE with these exact exceptions.
+	   1d. If an organization or agency is found to be knowingly and intentionally exploiting this exceptions list, the company agrees to pay as much as possible to rectify the
+	       harm caused by their actions, and to publicize all of their code related to this project and their plugins for this project or any of its derivatives.
+
+See main LICENSE file to see where these exceptions apply in the context of the whole license.
